@@ -1,0 +1,47 @@
+body {
+    background-color: rgba(58, 146, 247, 0.76);
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+    align-items: center;
+    font: normal 14pt Arial;
+}
+
+footer{
+    text-align: center;
+    align-items: center;
+    font: normal 10pt Arial;
+    margin: auto;
+    width: fit-content;
+}
+
+#principal{
+    background-color: white;
+    border:1px solid white;
+    height: 550px;
+    width: 500px;
+    margin:0px auto;
+    border-radius: 7%;
+    padding:7px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
+
+}
+
+div{
+    text-align: center;
+    padding:0.5%;
+}
+
+#img {
+    max-width: 350px;
+    max-height: 350px;
+    height: auto;
+    width: auto;
+    border-radius: 50px;
+}
+
+#espaco{
+    padding: 0px;
+    margin:0px 0px 3% 0px;
+}
